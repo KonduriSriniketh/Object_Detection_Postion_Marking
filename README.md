@@ -1,2 +1,2 @@
-# ROS Perception Pilipline - Object_Detection_Postion_Marking
+# ROS Perception Pilipline - Object_Detection_Position_Marking
 Detect the object using YOLO and mark the postion on the 2d ROS map.
