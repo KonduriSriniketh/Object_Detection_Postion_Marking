@@ -1,5 +1,7 @@
 # ROS Perception Pipeline - Object_Detection_Position_Marking
 Detect the object using YOLO and mark the postion on the 2d ROS map.
+- Model Trained on YOLOv5.
+- PyTorch cpp library with CUDA is used to deploy this model
 
 ## zed_obj_dec_pos_tag 
 **Instructions to use the object detection package (Perception Pipeline)**
