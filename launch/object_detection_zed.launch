@@ -1,0 +1,6 @@
+<launch>
+
+  <node name="zed_object_detection_node" pkg="zed_obj_dec_pos_tag" type="DetectorNodeTest.py" >
+  </node>
+
+</launch>
