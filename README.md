@@ -6,7 +6,11 @@ Detect the object using YOLO and mark the postion on the 2d ROS map.
 ## zed_obj_dec_pos_tag 
 **Instructions to use the object detection package (Perception Pipeline)**
 
-- Video showing the object detectected by camera tagged onto the map.
+- Video showing the object detected by camera tagged onto the map.
+
+
+https://github.com/user-attachments/assets/a87b32c6-e88f-4fb8-a92f-e2bd8f2fe2d7
+
 
 
 
